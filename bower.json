@@ -1,0 +1,17 @@
+{
+  "name": "smap.js",
+  "main": "smap.js",
+  "version": "0.0.0",
+  "authors": [
+    "arukakan"
+  ],
+  "description": "return nested array of mapped items",
+  "keywords": [
+    "joke"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "index.html",
+    "smap.iml"
+  ]
+}
